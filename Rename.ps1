@@ -1,4 +1,3 @@
-
 function batch-rename-files { param ([String] $Path, [String] $Prefix)
     $i = 0
     cd $Path 
